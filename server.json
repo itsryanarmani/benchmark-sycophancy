@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/benchmark-sycophancy",
+  "name": "io.github.itsryanarmani/benchmark-sycophancy",
   "description": "Deterministic LLM safety benchmark for calibrated pushback as a plan rises from low to severe harm.",
   "version": "0.2.0",
   "repository": {
